@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://gtechoogle.github.io
 date_format: "ordinal"
 title: "码出人生"
 subtitle: "用指尖敲出艺术"
@@ -10,7 +10,7 @@ description: "极钛歌的博客"
 keywords: gtechoogle
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
